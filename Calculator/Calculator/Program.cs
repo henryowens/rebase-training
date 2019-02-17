@@ -59,7 +59,7 @@ namespace Calculator
             return operand1 - operand2;
         private static decimal RunMultiply(decimal operand1, decimal operand2)
         {
-                return operand1 * operand2;
+            return operand1 * operand2;
         }
 
         [Pure]
